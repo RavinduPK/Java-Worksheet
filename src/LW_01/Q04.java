@@ -1,3 +1,5 @@
+package LW_01;
+
 import javax.swing.JFrame;
 
 public class Q04 {
