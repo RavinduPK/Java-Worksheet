@@ -9,7 +9,7 @@ public class Q04 {
         frame.setSize(300, 200);
 
 
-        frame.setLocation(50, 100);
+        frame.setLocation(50, 100) ;
 
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
