@@ -9,7 +9,7 @@ public class Q06 {
         LocalDate today = LocalDate.now();
 
 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMMM yyyy");
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE, MMMM d ,yyyy");
 
         String formattedDate = today.format(formatter);
         System.out.println("Today date :" + formattedDate);
